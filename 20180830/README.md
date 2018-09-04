@@ -15,11 +15,11 @@ Time | Description
 **You can donwload this presentation** [here]
 
 ## Featured Presentation:
-Disaster Recovery Plan Ideas and Experiences
-Carlos Lopez, Senior SQL Server DBA ATOS Guatemala
+**Disaster Recovery Plan Ideas and Experiences**\
+_Carlos Lopez, Senior SQL Server DBA ATOS Guatemala_\
 What is important to keep in mind before a disaster? When is considered a disaster? During this session we will discuss this important topic, in which we will approach the concepts that surround a disaster recovery plan as well as experiences to share with the group.
 
-## About Carlos Lopez:
+### About Carlos Lopez:
 MCTP and SQL Server 2008,2012/14 certified Database Administrator with experience in containers (Docker), Oracle, Linux, PowerShell and R. Working for different sectors of industry for more than a decade now such as guarding, security and finance ERP development and has given an insight opportunity to have understanding on manage large volumes of data as well as the business needs.
 
 **Contact information:**
