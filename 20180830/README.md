@@ -4,11 +4,13 @@
 **Time:** 18:00 PM to 20:00 PM 
 
 ## Meeting Agenda:
-06:00 - 06:15   Introduction to Guatemala's - SQL Server local group 
-06:15 - 06:30   Introduction to meeting logistics 
-06:30 - 07:00   Main presentation 
-07:00 - 07:15   Open Panel/Questions & Answers 
-07:15 - 08:00   Raffle - Food / socializing 
+Time | Description
+--- | ---
+06:00 - 06:15 | Introduction to Guatemala's - SQL Server local group 
+06:15 - 06:30 | Introduction to meeting logistics 
+06:30 - 07:00 | Main presentation 
+07:00 - 07:15 | Open Panel/Questions & Answers 
+07:15 - 08:00 | Raffle - Food / socializing 
 
 **You can donwload this presentation** [here]
 
@@ -24,8 +26,6 @@ MCTP and SQL Server 2008,2012/14 certified Database Administrator with experienc
 [Blog]
 [Twitter]
 [Github]
-
-
 
 For any question / suggestions, please send us an email to:
 gtssug@pass.org
