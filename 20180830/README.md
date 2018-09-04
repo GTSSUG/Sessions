@@ -1,6 +1,6 @@
 # 20180830 - Meeting
 
-**Date:** August 30, 2018 
+**Date:** August 30, 2018\s
 **Time:** 18:00 PM to 20:00 PM 
 
 ## Meeting Agenda:
