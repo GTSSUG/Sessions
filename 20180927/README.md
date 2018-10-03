@@ -36,4 +36,4 @@ gtssug@pass.org
 [Blog]: <http://dbamastery.com/>
 [Twitter]: <https://twitter.com/dbamastery>
 [Github]: <https://github.com/dbamaster>
-[here]: <https://git.io/fABKa>
+[here]: <https://git.io/fxLa0>
