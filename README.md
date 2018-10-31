@@ -1,8 +1,8 @@
-# Monthly meetings
-
-[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/database-2.png)](https://gtssug.pass.org)
+[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/10/LogoSQL.jpg)](https://gtssug.pass.org)
 
 The Guatemala SQL Server User Group is organized to bring professionals of all career levels that work with Microsoft’s SQL Server, together to learn and network with others.
+
+# Monthly meetings
 
 This is the official repository for past and future sessions of the Guatemala SQL Server User Group.
 Please make sure to register in our [website]
