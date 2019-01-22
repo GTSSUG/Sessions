@@ -1,27 +1,26 @@
 # 20180830 - Meeting
 
-**Date:** August 30, 2018\
-**Time:** 18:00 PM to 20:00 PM 
+**Date:** January 23, 2019\
+**Time:** 19:00 PM to 21:00 PM 
 
 ## Meeting Agenda:
 Time | Description
 --- | ---
-06:00 - 06:15 | Introduction to Guatemala's - SQL Server local group 
-06:15 - 06:30 | Introduction to meeting logistics 
-06:30 - 07:00 | Main presentation 
-07:00 - 07:15 | Open Panel/Questions & Answers 
-07:15 - 08:00 | Raffle - Food / socializing 
+19:00 - 19:15 | Introduction to Guatemala's - SQL Server local group 
+19:15 - 19:30 | Open Panel/Questions & Answers 
+19:30 - 20:30 | Main presentation : Introducción a SQL Server Always On
+20:30 - 21:00 | Raffle - Food / socializing 
 
 **You can donwload this presentation** [here]
 
 ## Featured Presentation:
-**Disaster Recovery Plan Ideas and Experiences**\
-_Carlos Lopez, Senior SQL Server DBA ATOS Guatemala_\
+**Introducción a SQL Server Always On**\
+_Christian Araujo, Regional SQL Architect Conduent_\
 \
-What is important to keep in mind before a disaster? When is considered a disaster? During this session we will discuss this important topic, in which we will approach the concepts that surround a disaster recovery plan as well as experiences to share with the group.
+SQL Server Always On es una herramienta que aún no ha temido la adopción que merece, en esta sesión exploraremos que es, como funciona, también aprenderemos a configurarla y utilizarla.
 
-**About Carlos Lopez:**\
-MCTP and SQL Server 2008,2012/14 certified Database Administrator with experience in containers (Docker), Oracle, Linux, PowerShell and R. Working for different sectors of industry for more than a decade now such as guarding, security and finance ERP development and has given an insight opportunity to have understanding on manage large volumes of data as well as the business needs.
+**About Christian Araujo:**\
+MCSE in Data management and Analytics. Information and Systems administrator professional. With a solid knowledge in information technology, database administration and its applications in business environments. Over 10 years of experience with Databases mostly focus on troubleshooting problematic queries and installations, designing and implementing secure database environments that comply with PCI-DSS, HIPPA and a solid experience with installing and troubleshooting Always On environments.
 
 **Contact information:**
 [Blog]
