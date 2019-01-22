@@ -36,4 +36,4 @@ gtssug@pass.org
 [Blog]: <https://dbstuffmatters.blogspot.com/>
 [Twitter]: <https://twitter.com/CarlosLopezSQL>
 [Github]: <https://github.com/Muppity>
-[here]: <https://git.io/fABKa>
+[here]: <https://git.io/fhgg3>
