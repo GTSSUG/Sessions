@@ -14,7 +14,7 @@ Time | Description
 
 ## Featured Presentation:
 **Fundamentos del lenguaje T-SQL**\
-_Eduardo Pivaral -MCSE, MCSA SQL Database Administrator/Developer _\
+_Eduardo Pivaral -MCSE, MCSA SQL Database Administrator/Developer_\
 \
 T-SQL is a declarative language used to tell SQL Server engine what to do, the better the code is the optimal response we will get for your applications. 
 
