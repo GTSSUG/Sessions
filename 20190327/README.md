@@ -19,7 +19,7 @@ _Jose Ramon Díaz, Senior SQL Server DBA_\
 Dada la importancia actual de la continuidad del negocio y los datos del mismo, en esta sesión presentaremos como SQL Server nos es útil para implementar estas estrategias. 
 En esta ocasión presentaremos Log Shipping, una visión general, como configurarlo, administrarlo y solución de problemas.
 
-**About Jose Ramon Diaz:**\
+**About Jose Ramon Díaz:**\
  Ingeniero de sistemas y MBA con mas de 14 años de experiencia en ambientes de bases de datos con SQL Server, Oracle y MySQL. También cuenta con experiencia en inteligencia de negocios trabajando con productos de SQL Server como de SSAS, SSRS y SSIS. Durante este tiempo he trabajado en ambientes financieros tanto locales como internacionales, así mismo brindando soporte a empresas del ámbito de administración hospitalario y de bienes raíces.
 
 
