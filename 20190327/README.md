@@ -14,7 +14,7 @@ Time | Description
 
 ## Featured Presentation:
 **Continuidad del negocio en SQL Server usando Log Shipping**\
-_Jose Ramon Dia, Senior SQL Server DBA_\
+_Jose Ramon Díaz, Senior SQL Server DBA_\
 \
 Dada la importancia actual de la continuidad del negocio y los datos del mismo, en esta sesión presentaremos como SQL Server nos es útil para implementar estas estrategias. 
 En esta ocasión presentaremos Log Shipping, una visión general, como configurarlo, administrarlo y solución de problemas.
