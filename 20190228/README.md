@@ -6,7 +6,7 @@
 ## Meeting Agenda:
 Time | Description
 --- | ---
-19:00 - 19:30 | Introduction to Guatemala's - SQL Server local group 
+19:00 - 19:30 | SQL Server local group Announcements 
 19:30 - 20:30 | Main presentation : Fundamentos del lenguaje T-SQL
 20:30 - 21:00 | Open Panel/Questions & Answers
 
