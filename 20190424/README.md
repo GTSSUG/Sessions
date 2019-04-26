@@ -38,4 +38,4 @@ gtssug@pass.org
 [Blog]: <http://www.sqlguatemala.com/>
 [Twitter]: <https://twitter.com/EduardoDBA>
 [Github]: <https://github.com/Epivaral>
-[here]: <https://git.io/fhAIY>
+[here]: <https://git.io/fjs5I>
