@@ -33,4 +33,4 @@ gtssug@pass.org
 
 [Twitter]: <https://twitter.com/gzepeda>
 [LinkedIn]: <https://www.linkedin.com/in/guillermozepedaselman>
-[here]: <https://git.io/fjs5I>
+[here]: <https://git.io/fj0RX>
