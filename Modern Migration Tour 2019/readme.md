@@ -1,4 +1,4 @@
-![Header]()
+![Header](images/header.jpg)
 # Modern Migration Tour 2019 - Guatemala
 
 PASS nos ha dado la oportunidad como grupo local de SQL Server de ser organizadores de un evento llamado **“Modern Migration Tour”**.
@@ -22,4 +22,4 @@ Para mas informacion y registro por favor visitar el sitio de eventbrite:
 
 https://www.eventbrite.ca/e/modern-migration-tour-2019-guatemala-tickets-61944098466
 
-![Modern Migration Tour Banner]()
+![Modern Migration Tour Banner](images/Banner.jpg)
