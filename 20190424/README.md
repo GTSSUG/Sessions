@@ -10,7 +10,7 @@ Time | Description
 19:30 - 20:30 | Main presentation: Diseñando estrategias de respaldo y recuperacion en SQL Server
 20:30 - 21:00 | Open Panel/Questions & Answers
 
-**You can donwload this presentation** [here]
+**You can download this presentation** [here]
 
 ## Featured Presentation:
 **Continuidad del negocio en SQL Server usando Log Shipping**\
