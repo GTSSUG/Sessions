@@ -35,7 +35,7 @@ gtssug@pass.org
 # Follow us
 [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_browser_1055104.png)](http://gtssug.pass.org/) [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_twitter_circle_color_107170.png)](https://twitter.com/gtssug) [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_github_circle_black_107161.png)](https://github.com/GTSSUG)
 
-[Twitter - Carlos Lopez]: <https://twitter.com/CarlosLopezSQL>
-[LinkedIn - Carlos Lopez]: <https://www.linkedin.com/in/arlos-lopez-taks>
-[Twitter - Carlos Robles]: <https://twitter.com/dbamastery>
-[LinkedIn - Carlos Robles]: <https://www.linkedin.com/in/croblesdba>
+[Twitter - Carlos Lopez]: <https://twitter.com/CarlosLopezSQL>  
+[LinkedIn - Carlos Lopez]: <https://www.linkedin.com/in/arlos-lopez-taks>  
+[Twitter - Carlos Robles]: <https://twitter.com/dbamastery>  
+[LinkedIn - Carlos Robles]: <https://www.linkedin.com/in/croblesdba>  
