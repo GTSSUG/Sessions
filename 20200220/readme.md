@@ -1,4 +1,4 @@
-# 2020 02 20 - Meetup
+# 20200220 - Meetup
 
 **Date:** February 20, 2020\
 **Time:** 19:00 to 20:00 CST 
